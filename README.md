@@ -25,32 +25,32 @@ Project Development "Sistem Informasi Pendataan Pasien Berbasis Desktop Pada Pol
 
 <br>
 <p align="center">
-        <img src="/images/3-aktif.jpg" width="500" height="300">
+        <img src="/images/pkl1-3.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images/4-nonaktif.jpg" width="500" height="300">
+        <img src="/images/pkl1-4.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images/5-upload.jpg" width="500" height="300">
+        <img src="/images/pkl1-5.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images/6-sertif.jpg" width="500" height="300">
+        <img src="/images/pkl1-6.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images/7-pel.jpg" width="500" height="300">
+        <img src="/images/pkl1-7.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images/8-kbo.jpg" width="500" height="300">
+        <img src="/images/pkl1-8.jpg" width="500" height="300">
 </p>
 
 <br>
@@ -60,22 +60,12 @@ Project Development "Sistem Informasi Pendataan Pasien Berbasis Desktop Pada Pol
 
 <br>
 <p align="center">
-        <img src="/images/10-reser.jpg" width="500" height="300">
+        <img src="/images/pkl1-9.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images/11-grafik1.jpg" width="500" height="300">
-</p>
-
-<br>
-<p align="center">
-        <img src="/images/12-grafik2.jpg" width="500" height="300">
-</p>
-
-<br>
-<p align="center">
-        <img src="/images/13-404.jpg" width="500" height="300">
+        <img src="/images/pkl1-10.jpg" width="500" height="300">
 </p>
 <br>
 

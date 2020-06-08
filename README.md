@@ -18,6 +18,67 @@ Project Development "Sistem Informasi Pendataan Pasien Berbasis Desktop Pada Pol
         <img src="/images/pkl1-1.jpg" width="500" height="300">
 </p>
 
+<br>
+<p align="center">
+        <img src="/images/2-dashboard.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/3-aktif.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/4-nonaktif.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/5-upload.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/6-sertif.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/7-pel.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/8-kbo.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/9-cc.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/10-reser.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/11-grafik1.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/12-grafik2.jpg" width="500" height="300">
+</p>
+
+<br>
+<p align="center">
+        <img src="/images/13-404.jpg" width="500" height="300">
+</p>
+<br>
+
 
 ## Ucapan Terima Kasih
 - Terima Kasih Kepada Bu Dokter Ida, Selaku Pembimbing Lapangan PKL di Poliklinik Gigi UPN Veteran Jawa Timur.

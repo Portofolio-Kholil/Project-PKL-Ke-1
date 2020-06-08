@@ -20,7 +20,7 @@ Project Development "Sistem Informasi Pendataan Pasien Berbasis Desktop Pada Pol
 
 <br>
 <p align="center">
-        <img src="/images/2-dashboard.jpg" width="500" height="300">
+        <img src="/images/pkl1-2.jpg" width="500" height="300">
 </p>
 
 <br>

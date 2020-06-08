@@ -4,3 +4,10 @@
 # Project-PKL Ke-2
 Di Poliklinik UPN "Veteran" Jawa Timur.
 Project Development "Sistem Informasi Pendataan Pasien Berbasis Desktop Pada Poliklinik Gigi UPN 'Veteran' Jawa Timur Dengan PyQt5.
+
+## Tools / Frameworks
+| Bagian | Tools yang digunakan |
+| --- | --- |
+| Back-End | Python 3 |
+| Front-End | PyQt5 |
+| Database | SQLite |

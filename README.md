@@ -68,6 +68,6 @@ Project Development "Sistem Informasi Pendataan Pasien Berbasis Desktop Pada Pol
 ## Ucapan Terima Kasih
 - Terima Kasih Kepada Bu Dokter Ida, Selaku Pembimbing Lapangan PKL di Poliklinik Gigi UPN Veteran Jawa Timur.
 - Terima Kasih Kepada Pak Mohammad Idhom, Selaku Dosen Pembimbing PKL.
-- Terima Kasih Kepada Teman Saya, Radical Rakhman Wahid selaku Tim Pengerjaan PKL Yang Selalu Menemani Saya Dalam Suka Maupun Duka :v 
+- Terima Kasih Kepada Teman Saya, Radical Rakhman Wahid selaku Tim Pengerjaan PKL Yang Selalu Menemani Saya Dalam Suka Maupun Duka :v
 
 ### Kholilul Rachman N.M
